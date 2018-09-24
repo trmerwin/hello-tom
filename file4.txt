@@ -7,3 +7,5 @@ Agenda
 •	Current workload including operations, tasks and projects.
 •	What do you need from me?
 •	What will I need from you.
+*	this is another sentence
+* 	this is a new sentence
